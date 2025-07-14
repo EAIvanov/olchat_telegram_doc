@@ -1,4 +1,8 @@
-# Получение и отправка сообщений
+---
+hidden: true
+---
+
+# Copy of Получение и отправка сообщений
 
 Общение с клиентом происходит через стандартный функционал[ открытых линий Битрикс24](https://www.bitrix24.ru/features/olines.php).
 
@@ -13,3 +17,11 @@
 <figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+
+### Голосовые сообщения
+
+{% hint style="success" %}
+Для входящих голосовых сообщений длительностью до 5 минут добавлена функция автоматической текстовой расшифровки (транскрибации) сообщения. Текст сообщения отображается в чате открытой линии рядом с голосовым сообщением. Сам процесс расшифровки занимает 5-20 секунд.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Скриншот 14.07.25_08.48.08.png" alt=""><figcaption></figcaption></figure>
