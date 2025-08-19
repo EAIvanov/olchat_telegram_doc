@@ -38,6 +38,7 @@
 ## Групповые чаты
 
 * [Групповые чаты](gruppovye-chaty/gruppovye-chaty.md)
+* [Подключение канала](gruppovye-chaty/podklyuchenie-kanala.md)
 
 ## Роботы и активити
 

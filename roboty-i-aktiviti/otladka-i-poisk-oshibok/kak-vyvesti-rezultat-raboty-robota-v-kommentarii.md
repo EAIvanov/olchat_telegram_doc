@@ -11,17 +11,17 @@
 
 Для начала добавим робота **«\[OLChat: Telegram] Отправка сообщения»** и выполним его настройку
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выведем результат работы робота в комментарий в таймлайне элемента. Для этого добавим стандартного робота Битрикс24 **«Добавить комментарий в элемент».**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выполним настройку робота. Результат выполнения предыдущего робота **«\[OLChat] Отправка сообщения»** содержится в дополнительных результатах отработанного робота в разделе Роботы — \[OLChat: Telegram] Отправка сообщения. Добавим значения **«Сообщение отправлено?»** и **«Описание ошибки»**
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Вывод можно оформить следующим образом, как показано на скриншоте ниже:
 
