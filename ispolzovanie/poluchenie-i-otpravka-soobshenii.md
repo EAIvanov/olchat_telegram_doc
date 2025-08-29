@@ -13,3 +13,21 @@
 <figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+
+### Отправка файлов через открытую линию
+
+Чтобы отправить клиенту файл с помощью открытых линий, в чате открытой линии нажмите на <img src="../.gitbook/assets/image (1021).png" alt="" data-size="line">, затем  выберите необходимый файл с устройства или из Битрикс.Диска.
+
+<figure><img src="../.gitbook/assets/Скриншот 29.08.25_11.41.44.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+В случае, если вес отправляемого файла превышает 400 Мб, такой файл будет отправлен клиенту в виде короткой ссылки.
+{% endhint %}
+
+В открытых линиях сообщения с файлами выглядят следующим образом:
+
+<figure><img src="../.gitbook/assets/Скриншот 29.08.25_11.39.25.png" alt=""><figcaption></figcaption></figure>
+
+У клиента в Telegram сообщения выглядят так:
+
+<figure><img src="../.gitbook/assets/Скриншот 29.08.25_11.53.34.png" alt=""><figcaption></figcaption></figure>
