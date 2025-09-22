@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # New Оплата коннектора
 
 Для оплаты коннектора выполните следующие действия в приложении OLChat Telegram:
@@ -11,6 +7,10 @@ hidden: true
 #### Перейдите в приложение OLChat Telegram и выберите пункт "Новый платёж".
 
 <figure><img src="../.gitbook/assets/image (1026).png" alt=""><figcaption></figcaption></figure>
+
+В случае, если планируете оплатить только одну конкретную линию, можно выбрать ее из Списка аккаунтов на главной станице приложения, нажать на "<img src="../.gitbook/assets/image (1).png" alt="" data-size="line">" в конце строки напротив выбранной линии, затем выбрать "Оплатить".
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
