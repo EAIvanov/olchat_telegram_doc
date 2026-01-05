@@ -20,8 +20,7 @@
 8. **Статус соединения** – показывает текущий статус соединения.
 9. **Дата окончания** демонстрационного или оплаченного периода и количество оставшихся дней.
 10. Значок «**•••**» **– Меню вызова настроек.**\
-    ![](<../../.gitbook/assets/image (989).png>)\
-
+    ![](<../../.gitbook/assets/image (989).png>)<br>
     1. **Оплатить.** Открывает окно для оплаты выбранного коннектора. Подробнее в статье [oplata-konnektora.md](../../stoimost-i-oplata-prilozheniya/oplata-konnektora.md "mention")
     2. **Настройки коннектора.** Открывает окно настроек коннектора. Подробнее в статье [opisanie-nastroek-konnektora.md](opisanie-nastroek-konnektora.md "mention")
     3. **Настройки линии.** Позволяет перейти в настройки открытой линии для данного коннектора. Подробнее в статье [nastroika-otkrytoi-linii.md](../nastroika-otkrytoi-linii.md "mention")

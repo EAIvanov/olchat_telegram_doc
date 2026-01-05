@@ -8,7 +8,7 @@
 
 Для оплаты на вкладке «Оплата картой» введите номер телефона для связи по вопросам оплаты, эл. почту для отправки счёта и уведомлений и выберите период оплаты. Затем нажмите «Оплатить».
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2346).png" alt=""><figcaption></figcaption></figure>
 
 Оплата c помощью карты происходит с использованием Банковских карт следующих платежных систем:
 
@@ -26,7 +26,7 @@
 
 Для запроса на выставление счёта перейдите во вкладку «Оплата по счёту», заполните форму и нажмите на кнопку «Получить счёт».
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2347).png" alt=""><figcaption></figcaption></figure>
 
 Скачайте счёт по ссылке
 
