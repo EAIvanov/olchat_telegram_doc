@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/2024-12-27_19-36-43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 В настоящее время **Публикация в чате открытой линии** возможно только **Входящим сообщением!** Публикация **Исходящим в ОЛ** недоступна. Техотдел работает над добавлением такой возможности.
