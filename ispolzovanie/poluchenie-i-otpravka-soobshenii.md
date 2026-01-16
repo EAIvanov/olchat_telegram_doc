@@ -10,9 +10,7 @@
 
 Чтобы продолжить общение с клиентом, достаточно нажать на иконку чата в карточке контакта, лида или сделки, или нажать на кнопку «ОТКРЫТЬ».
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/111.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Отправка файлов через открытую линию
 
