@@ -13,9 +13,10 @@
 3.  **Сайт (WEB).** В данном поле необходимо хранить ссылки вида: `https://t.me/{username or phone}` или `https://{username}.t.me/`, где:\
     `username` — имя пользователя Telegram
 
-    `phone` — номер телефона пользователя Telegram в международном формате<br>
+    `phone` — номер телефона пользователя Telegram в международном формате\
+    Укажите тип "Личный"<br>
 
-    <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 При условии соблюдения правильного формата записи мы сможем корректно обработать записанные в полях значения и отобразить в списке адресатов все найденные аккаунты Telegram.
