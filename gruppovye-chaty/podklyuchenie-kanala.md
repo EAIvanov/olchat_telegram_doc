@@ -6,7 +6,7 @@
 {% step %}
 #### Создайте канал в мобильной или web-версии Телеграм.
 
-* В мобильной версии откройте вкладку Чаты —> над списком чатов выберите <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> —> далее    "<img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line">Создать канал".&#x20;
+* В мобильной версии откройте вкладку Чаты —> над списком чатов выберите <img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line"> —> далее    "<img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line">Создать канал".&#x20;
 * В web-версии нажмите <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> в нижней части списка чатов, далее "<img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line">Создать канал".&#x20;
 
 1. Укажите название канала, при необходимости добавьте описание и установите аватар.&#x20;
