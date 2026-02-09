@@ -19,6 +19,7 @@
   * [Описание настроек приложения](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-prilozheniya.md)
   * [Описание настроек коннектора](ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md)
   * [Типы уведомлений приложения](ustanovka-i-nastroika/interfeisy-prilozheniya/tipy-uvedomlenii-prilozheniya.md)
+  * [Типы уведомлений приложения](ustanovka-i-nastroika/interfeisy-prilozheniya/tipy-uvedomlenii-prilozheniya-1.md)
 * [Добавление дополнительных аккаунтов Telegram](ustanovka-i-nastroika/dobavlenie-dopolnitelnyh-akkauntov-telegram.md)
 * [Синхронизация контактов CRM с телефонной книгой](ustanovka-i-nastroika/sinkhronizaciya-kontaktov-crm-s-telefonnoi-knigoi.md)
 * [Работа с дубликатами в CRM](ustanovka-i-nastroika/rabota-s-dublikatami-v-crm.md)
