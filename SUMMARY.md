@@ -60,4 +60,5 @@
 
 ## Вопросы и ответы
 
-* [Ошибка PRIVACY\_PREMIUM\_REQUIRED](voprosy-i-otvety/oshibka-privacy_premium_required.md)
+* [Возникающие ошибки](voprosy-i-otvety/voznikayushie-oshibki/README.md)
+  * [Ошибка PRIVACY\_PREMIUM\_REQUIRED](voprosy-i-otvety/voznikayushie-oshibki/oshibka-privacy_premium_required.md)
