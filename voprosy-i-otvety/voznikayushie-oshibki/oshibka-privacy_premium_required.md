@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Ошибка PRIVACY\_PREMIUM\_REQUIRED
 
 При отправке сообщения вы можете увидеть системное уведомление PRIVACY\_PREMIUM\_REQUIRED.
