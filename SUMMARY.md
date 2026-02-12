@@ -59,3 +59,5 @@
 * [Как отправить сообщение в Telegram, если номер телефона клиента скрыт?](keisy/kak-otpravit-soobshenie-v-telegram-esli-nomer-telefona-klienta-skryt.md)
 
 ## Вопросы и ответы
+
+* [Ошибка PRIVACY\_PREMIUM\_REQUIRED](voprosy-i-otvety/oshibka-privacy_premium_required.md)
