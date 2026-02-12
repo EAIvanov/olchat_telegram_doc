@@ -7,6 +7,7 @@
   * [Оплата коннектора](stoimost-i-oplata-prilozheniya/oplata-konnektora.md)
   * [Оплата групп Telegram](stoimost-i-oplata-prilozheniya/oplata-grupp-telegram.md)
 * [Что нового?](chto-novogo.md)
+* [Правила эффективного взаимодействия со службой поддержки](pravila-effektivnogo-vzaimodeistviya-so-sluzhboi-podderzhki.md)
 
 ## Установка и настройка
 
