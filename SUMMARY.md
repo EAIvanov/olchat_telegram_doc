@@ -52,6 +52,7 @@
   * [Отправка местоположения](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/otpravka-mestopolozheniya.md)
 * [Отладка и поиск ошибок](roboty-i-aktiviti/otladka-i-poisk-oshibok/README.md)
   * [Как вывести результат работы робота в комментарий](roboty-i-aktiviti/otladka-i-poisk-oshibok/kak-vyvesti-rezultat-raboty-robota-v-kommentarii.md)
+* [Настройка отправки файла в зависимости от источника](roboty-i-aktiviti/nastroika-otpravki-faila-v-zavisimosti-ot-istochnika.md)
 
 ## КЕЙСЫ
 
