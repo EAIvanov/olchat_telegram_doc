@@ -46,8 +46,11 @@
 
 * [Роботы и активити (действия) бизнес-процессов](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/README.md)
   * [Поиск пользователя в Telegram](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/poisk-polzovatelya-v-telegram.md)
+  * [Информация о чате Telegram](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/informaciya-o-chate-telegram.md)
   * [Отправка сообщения](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/otpravka-soobsheniya.md)
   * [Отправка файла](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/otpravka-faila.md)
+  * [Создать группу](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/sozdat-gruppu.md)
+  * [Ожидать сообщение](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/ozhidat-soobshenie.md)
   * [Отправка контакта](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/otpravka-kontakta.md)
   * [Отправка местоположения](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/otpravka-mestopolozheniya.md)
 * [Отладка и поиск ошибок](roboty-i-aktiviti/otladka-i-poisk-oshibok/README.md)
