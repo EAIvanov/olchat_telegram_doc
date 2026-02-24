@@ -56,7 +56,7 @@ ID файла отображается в интерфейсе Диска Бит
 
 Вставьте этот ID в поле «Поле файла» робота/активити «\[OLChat: Telegram] Отправка файла».
 
-<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 ## **Важно**
 
