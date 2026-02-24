@@ -61,6 +61,7 @@
 
 * [Отправка сообщений в групповой чат через умный сценарий с использованием ID группового чата](keisy/otpravka-soobshenii-v-gruppovoi-chat-cherez-umnyi-scenarii-s-ispolzovaniem-id-gruppovogo-chata.md)
 * [Как отправить сообщение в Telegram, если номер телефона клиента скрыт?](keisy/kak-otpravit-soobshenie-v-telegram-esli-nomer-telefona-klienta-skryt.md)
+* [Copy of Как отправить сообщение в Telegram, если номер телефона клиента скрыт?](keisy/copy-of-kak-otpravit-soobshenie-v-telegram-esli-nomer-telefona-klienta-skryt.md)
 
 ## Вопросы и ответы
 
