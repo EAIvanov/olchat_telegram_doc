@@ -33,6 +33,8 @@
 * [Copy of Отправка сообщений из приложения в карточке](ispolzovanie/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke-1.md)
 * [Особенности записи контактных данных клиента в карточке CRM](ispolzovanie/osobennosti-zapisi-kontaktnykh-dannykh-klienta-v-kartochke-crm.md)
 * [Отправка сообщений из мобильного приложения Битрикс24](ispolzovanie/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
+* [Виджеты в карточках CRM и Смарт-процессах](ispolzovanie/vidzhety-v-kartochkakh-crm-i-smart-processakh/README.md)
+  * [OLChat: Telegram — статусы и чаты](ispolzovanie/vidzhety-v-kartochkakh-crm-i-smart-processakh/olchat-telegram-statusy-i-chaty.md)
 
 ## ВОЗМОЖНОСТИ
 
