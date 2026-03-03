@@ -28,11 +28,11 @@ hidden: true
 
 Чтобы начать новый диалог с клиентом, выберите нужный идентификатор (номер телефона или username) и нажмите на иконку «Создать чат».
 
-<figure><img src="../../.gitbook/assets/Снимок11.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2026-03-03_15-23-06.png" alt=""><figcaption></figcaption></figure>
 
 Если диалог с клиентом уже начат и чат был создан ранее, отобразится «Открыть чат». После нажатия на эту кнопку вы перейдёте в существующий чат с клиентом.
 
-<figure><img src="../../.gitbook/assets/Снимок.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2026-03-03_15-20-32.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Через виджет вы можете открыть чат, находясь в любой сущности CRM, даже если он не привязан напрямую к текущей сущности.
