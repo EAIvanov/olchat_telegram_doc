@@ -12,13 +12,15 @@ hidden: true
 
 Чтобы показать виджет в карточке CRM, зайдите в неё и нажмите на кнопку «Выбрать поле».
 
-<figure><img src="../../.gitbook/assets/2026-03-04_09-55-03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2026-03-04_10-44-01.png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся списке полей установите галочку напротив «OLChat: Telegram» и нажмите на кнопку «Выбрать».
 
-<figure><img src="../../.gitbook/assets/2026-03-04_09-50-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2026-03-04_10-45-53.png" alt=""><figcaption></figcaption></figure>
 
 Нажмите на кнопку «Обновить виджет». Виджет будет готов к работе.
+
+<figure><img src="../../.gitbook/assets/2026-03-04_10-52-18.png" alt=""><figcaption></figcaption></figure>
 
 **Как показать виджет «OLChat Telegram» в карточке Смарт-процесса**&#x20;
 
@@ -28,13 +30,13 @@ hidden: true
 
 <figure><img src="../../.gitbook/assets/2026-03-03_14-56-10.png" alt=""><figcaption></figcaption></figure>
 
-* В выпадающем списке «Тип данных» выберите тип OLChat Telegram. В поле «Название» укажите название поля и нажмите на кнопку «СОХРАНИТЬ»
+* В выпадающем списке «Тип данных» выберите тип OLChat Telegram. В поле «Название» укажите название поля и нажмите на кнопку «СОХРАНИТЬ».
 
-<figure><img src="../../.gitbook/assets/Снимок5 (2).JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_1.jpg" alt=""><figcaption></figcaption></figure>
 
 * Войдите в режим редактирования карточки и установите виджет. Для входа в режим редактирования карточки нажмите на кнопку «Изменить».
 
-<figure><img src="../../.gitbook/assets/2026-03-03_14-57-33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2026-03-04_11-09-00.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Нажатие на иконку «Обновить данные виджета» очищает данные поля виджета. Обновление данных можно использовать в том случае, если вы столкнулись с некорректным отображением идентификаторов клиента (номеров телефонов или username) в виджете. Например, добавили клиента с Telegram-аккаунтом в карточку, но в виджете он не появился.
