@@ -39,6 +39,7 @@
 ## ВОЗМОЖНОСТИ
 
 * [Виджет на сайт](vozmozhnosti/vidzhet-na-sait.md)
+* [Шаблоны сообщений](vozmozhnosti/shablony-soobshenii.md)
 
 ## Групповые чаты
 
