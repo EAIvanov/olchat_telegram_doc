@@ -12,7 +12,7 @@ hidden: true
 
 Чтобы показать виджет в карточке CRM, зайдите в неё и нажмите на кнопку «Выбрать поле».
 
-<figure><img src="../../.gitbook/assets/2026-03-04_10-44-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_11.png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся списке полей установите галочку напротив «OLChat: Telegram» и нажмите на кнопку «Выбрать».
 
