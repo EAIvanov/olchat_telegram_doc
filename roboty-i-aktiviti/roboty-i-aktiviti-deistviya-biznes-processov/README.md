@@ -28,4 +28,4 @@
 
 [otpravka-soobsheniya.md](otpravka-soobsheniya.md "mention")
 
-[otpravka-faila.md](otpravka-faila.md "mention")
+[Broken link](/broken/pages/meOOUGaC3kNLtdBosOXJ "mention")
