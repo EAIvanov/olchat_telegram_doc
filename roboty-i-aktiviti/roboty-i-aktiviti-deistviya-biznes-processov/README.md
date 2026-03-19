@@ -7,11 +7,9 @@
 {% endhint %}
 
 {% hint style="info" %}
-Общая информация по работе с роботами в Битрикс24:\
-[Роботы Битрикс24](https://helpdesk.bitrix24.ru/open/6908975/)
+Общая информация по работе с роботами в Битрикс24: [Роботы Битрикс24](https://helpdesk.bitrix24.ru/open/6908975/).
 
-Общая информация по работе с бизнес-процессами в Битрикс24:\
-[Видео-курс о бизнес-процессах](https://helpdesk.bitrix24.ru/open/3092117/)
+Общая информация по работе с бизнес-процессами в Битрикс24: [Видео-курс о бизнес-процессах](https://helpdesk.bitrix24.ru/open/3092117/).
 {% endhint %}
 
 ### Установка роботов и активити
@@ -24,8 +22,8 @@
 
 ### Описание роботов и активити
 
-[poisk-polzovatelya-v-telegram.md](poisk-polzovatelya-v-telegram.md "mention")
+[poisk-polzovatelya-v-telegram.md](poisk-polzovatelya-v-telegram.md "mention").
 
-[otpravka-soobsheniya.md](otpravka-soobsheniya.md "mention")
+[otpravka-soobsheniya.md](otpravka-soobsheniya.md "mention").
 
-[Broken link](/broken/pages/meOOUGaC3kNLtdBosOXJ "mention")
+[Broken link](/broken/pages/meOOUGaC3kNLtdBosOXJ "mention").

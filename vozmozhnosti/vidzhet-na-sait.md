@@ -46,5 +46,5 @@
 
 {% hint style="info" %}
 Настройка виджета для сайта в Битрикс24\
-[https://helpdesk.bitrix24.ru/open/6986667/](https://helpdesk.bitrix24.ru/open/6986667/)
+[https://helpdesk.bitrix24.ru/open/6986667/](https://helpdesk.bitrix24.ru/open/6986667/).
 {% endhint %}

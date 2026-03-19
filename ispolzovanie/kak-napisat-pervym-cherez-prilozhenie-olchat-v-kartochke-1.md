@@ -22,9 +22,9 @@ hidden: true
 
 ### Кому
 
-В выпадающем списке указаны все найденные аккаунты Telegram. Поиск аккаунтов производится в полях **Телефон, Мессенджер** и **Сайт** в лиде или привязанной к сделке сущности (в контакте, в компании). Написать человеку можно по номеру или username.
+В выпадающем списке указаны все найденные аккаунты Telegram. Поиск аккаунтов производится в полях **Телефон, Мессенджер** и **Сайт** в лиде или привязанной к сделке сущности (в контакте, в компании). Написать человеку можно по номеру или username (по имени пользователя).
 
-Подробнее о том, как правильно записывать контактные данные клиента в карточку CRM, описано в статье [osobennosti-zapisi-kontaktnykh-dannykh-klienta-v-kartochke-crm.md](osobennosti-zapisi-kontaktnykh-dannykh-klienta-v-kartochke-crm.md "mention").
+Подробнее о том, как правильно записывать контактные данные клиента в карточку CRM (системы управления взаимоотношениями с клиентами), описано в статье [osobennosti-zapisi-kontaktnykh-dannykh-klienta-v-kartochke-crm.md](osobennosti-zapisi-kontaktnykh-dannykh-klienta-v-kartochke-crm.md "mention").
 
 <figure><img src="../.gitbook/assets/2026-02-27_14-05-46 (1).png" alt=""><figcaption></figcaption></figure>
 
