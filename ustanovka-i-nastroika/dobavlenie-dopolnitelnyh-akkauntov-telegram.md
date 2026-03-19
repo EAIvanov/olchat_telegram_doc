@@ -6,7 +6,7 @@
 Каждый подключенный коннектор (аккаунт Telegram) оплачивается отдельно. Подробнее о тарифах приложения вы можете узнать из статьи [stoimost-i-oplata-prilozheniya](../stoimost-i-oplata-prilozheniya/ "mention")
 {% endhint %}
 
-Чтобы подключить новый аккаунт Telegram перейдите в настройки приложения OLChat: Telegram (в меню слева) и нажмите на кнопку «+ Подключить аккаунт».
+Чтобы подключить новый аккаунт Telegram перейдите в настройки приложения Олчат: Telegram (в меню слева) и нажмите на кнопку «+ Подключить аккаунт».
 
 <figure><img src="../.gitbook/assets/image (983).png" alt=""><figcaption></figcaption></figure>
 
@@ -15,5 +15,5 @@
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Подробнее о подключении коннектора и настройке Открытой линии вы можете узнать из статей [podklyuchenie-konnektora.md](podklyuchenie-konnektora.md "mention")и [nastroika-otkrytoi-linii.md](nastroika-otkrytoi-linii.md "mention")
+Подробнее о подключении коннектора и настройке Открытой линии вы можете узнать из статей [podklyuchenie-konnektora.md](podklyuchenie-konnektora.md "mention")и [nastroika-otkrytoi-linii.md](nastroika-otkrytoi-linii.md "mention").
 {% endhint %}
