@@ -1,6 +1,6 @@
 # Оплата коннектора
 
-Для оплаты коннектора перейдите в настройки приложения OLChat: Telegram (в меню слева), нажмите на значок «**•••**» Меню напротив нужной линии и выберите пункт «Оплатить»:
+Для оплаты коннектора перейдите в настройки приложения Олчат: Telegram (в меню слева), нажмите на значок «**•••**» Меню напротив нужной линии и выберите пункт «Оплатить»:
 
 <figure><img src="../.gitbook/assets/image (982).png" alt=""><figcaption></figcaption></figure>
 
@@ -12,9 +12,9 @@
 
 Оплата c помощью карты происходит с использованием Банковских карт следующих платежных систем:
 
-* МИР
-* VISA International
-* Mastercard Worldwide
+* МИР.
+* VISA International.
+* Mastercard Worldwide.
 
 <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
@@ -41,5 +41,5 @@
 {% endhint %}
 
 {% hint style="info" %}
-Для подключения нескольких аккаунтов Telegram создайте несколько Открытых линий и подключите к ним коннекторы. Подробнее в статье [dobavlenie-dopolnitelnyh-akkauntov-telegram.md](../ustanovka-i-nastroika/dobavlenie-dopolnitelnyh-akkauntov-telegram.md "mention")
+Для подключения нескольких аккаунтов Telegram создайте несколько Открытых линий и подключите к ним коннекторы. Подробнее в статье [dobavlenie-dopolnitelnyh-akkauntov-telegram.md](../ustanovka-i-nastroika/dobavlenie-dopolnitelnyh-akkauntov-telegram.md "mention").
 {% endhint %}

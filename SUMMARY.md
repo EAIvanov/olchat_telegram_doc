@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OLChat: Telegram — чат Telegram для открытых линий Битрикс24](README.md)
+* [Олчат: Telegram — чат Telegram для открытых линий Битрикс24](README.md)
 * [Важная информация!](vazhnaya-informaciya.md)
 * [Тарифы приложения](stoimost-i-oplata-prilozheniya/README.md)
   * [New Оплата коннектора](stoimost-i-oplata-prilozheniya/new-oplata-konnektora.md)
