@@ -10,12 +10,12 @@ hidden: true
 
 ## **Настройка и создание шаблонов**&#x20;
 
-Шаблоны создаются и редактируются в разделе Олчат (не в отдельном приложении Олчат: Telegram). Подробная инструкция по созданию, редактированию, категориям и переменным доступна здесь: [https://docs.olchat.io/capabilities/shablony-soobshenii](https://docs.olchat.io/capabilities/shablony-soobshenii).
+Шаблоны создаются и редактируются в отдельном приложении «Олчат — Чаты и Группы WhatsApp». Подробная инструкция по созданию, редактированию, категориям и переменным доступна здесь: [https://docs.olchat.io/capabilities/shablony-soobshenii](https://docs.olchat.io/capabilities/shablony-soobshenii).
 
 Для работы с шаблонами сообщений в Telegram установите следующие приложения:
 
-* **Олчат — Чаты и Группы Telegram**.
-* **Олчат — Чаты и Группы WhatsApp**.
+* **Олчат — Чаты и Группы Telegram,** (основное приложение для подключения чатов и групп Telegram к Открытым линиям).
+* **Олчат — Чаты и Группы WhatsApp,** подробнее как устновить приложение: [https://docs.olchat.io/ustanovka-i-nastroika/ustanovka-prilozheniya](https://docs.olchat.io/ustanovka-i-nastroika/ustanovka-prilozheniya).
 
 #### **Кратко о настройке шаблонов**
 
