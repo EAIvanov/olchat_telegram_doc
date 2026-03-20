@@ -15,9 +15,9 @@
 
 #### **Кратко о настройке шаблонов**
 
-1.  Перейдите в приложение Олчат WhatsApp в левом меню портала Битрикс24.
+1.  Перейдите в приложение Олчат WhatsApp в левом меню портала Битрикс24.<br>
 
-    <figure><img src="../.gitbook/assets/Снимок экрана 2026-03-04 121538.jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/2026-03-20 12_20_42-NVIDIA GeForce Overlay.png" alt=""><figcaption></figcaption></figure>
 2.  Выберите пункт меню «Настройки шаблонов».
 
     <figure><img src="../.gitbook/assets/Снимок экрана 2026-03-04 121621.jpg" alt=""><figcaption></figcaption></figure>
