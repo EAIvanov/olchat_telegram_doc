@@ -12,9 +12,9 @@ hidden: true
 
 <figure><img src="../.gitbook/assets/image (1026).png" alt=""><figcaption></figcaption></figure>
 
-В случае, если планируете оплатить только одну конкретную линию, можно выбрать ее из Списка аккаунтов на главной станице приложения, нажать на «<img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line">» в конце строки напротив выбранной линии, затем выбрать «Оплатить».
+В случае, если планируете оплатить только одну конкретную линию, можно выбрать ее из Списка аккаунтов на главной станице приложения, нажать на «<img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" data-size="line">» в конце строки напротив выбранной линии, затем выбрать «Оплатить».
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
