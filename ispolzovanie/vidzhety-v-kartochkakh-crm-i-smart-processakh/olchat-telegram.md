@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Олчат: Telegram
 
 ## **Виджет «Олчат : Telegram»**
