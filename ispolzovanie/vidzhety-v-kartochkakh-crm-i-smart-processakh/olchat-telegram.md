@@ -67,7 +67,7 @@
 
 #### **Что делать, если виджет не работает?**
 
-Необходимо проверить [«Права на приложение»](https://tg.docs.olchat.io/ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat).
+Необходимо проверить [«Права на приложение»](https://tg.docs.olchat.io/ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat#prava-na-prilozhenie).
 
 #### **Что делать при ошибке «Нет данных авторизации от Битрикс24»?**
 
