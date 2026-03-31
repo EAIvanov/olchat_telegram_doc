@@ -73,5 +73,5 @@
 
 Возможные причины:
 
-1. У сотрудника нет прав на приложение — виджет не видит авторизацию. Проверьте [«Права на приложение»](https://tg.docs.olchat.io/ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat).
+1. У сотрудника нет прав на приложение — виджет не видит авторизацию. Проверьте [«Права на приложение»](https://tg.docs.olchat.io/ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat#prava-na-prilozhenie).
 2. Временные проблемы с сервером авторизации Битрикс24. В этом случае нужно подождать решения от Битрикс24.
