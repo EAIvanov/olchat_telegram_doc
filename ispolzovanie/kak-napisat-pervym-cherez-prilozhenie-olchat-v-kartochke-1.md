@@ -88,11 +88,9 @@ hidden: true
 
 **Это уведомление может возникать по одной из следующих причин:**
 
-* у клиента отсутствует аккаунт Telegram;
-* номер телефона скрыт в настройках конфиденциальности Telegram;
-* превышены лимиты.
-
-Подробнее можно узнать [здесь](https://tg.docs.olchat.io/vazhnaya-informaciya).
+* у клиента [отсутствует аккаунт](https://tg.docs.olchat.io/vazhnaya-informaciya#net-akkaunta) Telegram;
+* номер телефона скрыт в [настройках конфиденциальности](https://tg.docs.olchat.io/vazhnaya-informaciya#nastroiki-konfidencialnosti) Telegram;
+* превышены [лимиты](https://tg.docs.olchat.io/vazhnaya-informaciya#limity).
 
 #### **Что делать**
 
