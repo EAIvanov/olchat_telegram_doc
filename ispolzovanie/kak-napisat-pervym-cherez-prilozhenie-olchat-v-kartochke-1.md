@@ -6,9 +6,7 @@ hidden: true
 
 Для того чтобы написать сообщение клиенту, воспользуйтесь приложением **\[Олчат] Telegram** в карточке:
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/2026-02-27_13-45-28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2026-04-07_08-19-49 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Если вы отправляете сообщение через приложение в первый раз после подключения интеграции, приложение может открываться не сразу, а спустя некоторое время. Во время открытия приложения вы увидите уведомление «Идёт загрузка приложения \[Олчат] Telegram». Связано это с синхронизацией ваших контактов Telegram с системой. Рекомендуем перезайти в приложение через 3-5 минут.
@@ -26,15 +24,15 @@ hidden: true
 
 Подробнее о том, как правильно записывать контактные данные клиента в карточку CRM (системы управления взаимоотношениями с клиентами), описано в статье [osobennosti-zapisi-kontaktnykh-dannykh-klienta-v-kartochke-crm.md](osobennosti-zapisi-kontaktnykh-dannykh-klienta-v-kartochke-crm.md "mention").
 
-<figure><img src="../.gitbook/assets/2026-02-27_14-05-46 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2026-04-07_08-09-52 (1).png" alt=""><figcaption></figcaption></figure>
 
 Если вы хотите создать чат открытой линии и пригласить туда сотрудников портала для общения с клиентом, нажмите на кнопку «СОЗДАТЬ ЧАТ».
 
-<figure><img src="../.gitbook/assets/2026-02-27_13-52-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2026-04-07_08-12-49.png" alt=""><figcaption></figcaption></figure>
 
-Также вы можете скопировать username клиента в Telegram, нажав на соответствующую кнопку.
+Также вы можете скопировать имя пользователя (username) клиента в Telegram, нажав на соответствующую кнопку.
 
-<figure><img src="../.gitbook/assets/image (1049).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2026-04-07_08-14-18.png" alt=""><figcaption></figcaption></figure>
 
 ### Отправка сообщений
 
@@ -44,11 +42,11 @@ hidden: true
 
 **ФАЙЛЫ** — для прикрепления файла выберите его на компьютере. При необходимости активируйте галочку «Отправить как документ» для отправки файла без сжатия.
 
-<figure><img src="../.gitbook/assets/2026-02-27_13-56-26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2026-04-07_08-18-14.png" alt=""><figcaption></figcaption></figure>
 
 **ГОЛОСОВОЕ** — есть возможность записать и отправить голосовое сообщение. Для этого необходимо нажать на значок микрофона. После записи сообщение можно прослушать и при необходимости удалить.
 
-<figure><img src="../.gitbook/assets/2026-02-27_13-57-06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2026-04-07_08-21-35.png" alt=""><figcaption></figcaption></figure>
 
 **Способ публикации в открытой линии**:
 
@@ -64,7 +62,7 @@ hidden: true
 Ранее Открытые линии не позволяли писать клиенту первыми. Чтобы реализовать эту возможность, первое сообщение было как бы от лица клиента, и Битрикс24 думал, что это входящее сообщение.
 {% endhint %}
 
-При выборе способа **Входящее** сообщение будет опубликовано в чате как будто от лица клиента, но с пометкой «Олчат», показывающей, что это сообщение было написано методом публикации **Входящим сообщением в ОЛ.**
+При выборе способа **Входящее** сообщение будет опубликовано в чате как будто от лица клиента, но с пометкой «Олчат», показывающей, что это сообщение было написано методом публикации **Входящее.**
 
 <figure><img src="../.gitbook/assets/image (980).png" alt=""><figcaption></figcaption></figure>
 
@@ -84,9 +82,9 @@ hidden: true
 
 ### Особенности настроек конфиденциальности номера в Telegram
 
-Иногда при попытке отправить клиенту сообщение может появиться уведомление: «У клиента нет Telegram-аккаунта или он скрыл номер телефона в настройках конфиденциальности».
+Иногда при попытке отправить клиенту сообщение может появиться ошибка: «На данный момент отправка сообщения&#x20;недоступна. Подробнее обо всех причинах:&#x20;https://tg.docs.olchat.io/vazhnaya-informaciya».
 
-<figure><img src="../.gitbook/assets/image (1017).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2026-04-07_08-04-25.png" alt=""><figcaption></figcaption></figure>
 
 **Это уведомление может возникать по одной из следующих причин:**
 
