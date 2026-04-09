@@ -90,6 +90,8 @@ hidden: true
 
 * у клиента [отсутствует аккаунт](https://tg.docs.olchat.io/vazhnaya-informaciya#net-akkaunta) Telegram;
 * номер телефона скрыт в [настройках конфиденциальности](https://tg.docs.olchat.io/vazhnaya-informaciya#nastroiki-konfidencialnosti) Telegram;
+* аккаунт заблокирован;
+* первый контакт;
 * превышены [лимиты](https://tg.docs.olchat.io/vazhnaya-informaciya#limity).
 
 #### **Что делать**

@@ -55,7 +55,7 @@
 2. Нажмите на кнопку вызова команд (обычно значок «…» или «Команды» в правой части заголовка чата).
 3.  Выберите и отправьте команду /getDialogId.
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 4. После отправки в чат придёт системное сообщение с ID диалога.
 5. Скопируйте идентификатор (он копируется в буфер обмена автоматически при нажатии кнопки рядом с ID).
 
