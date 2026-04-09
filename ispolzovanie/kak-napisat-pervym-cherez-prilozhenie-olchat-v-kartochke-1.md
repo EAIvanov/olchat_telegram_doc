@@ -88,11 +88,11 @@ hidden: true
 
 **Это уведомление может возникать по одной из следующих причин:**
 
-* у клиента [отсутствует аккаунт](https://tg.docs.olchat.io/vazhnaya-informaciya#net-akkaunta) Telegram;
 * номер телефона скрыт в [настройках конфиденциальности](https://tg.docs.olchat.io/vazhnaya-informaciya#nastroiki-konfidencialnosti) Telegram;
-* аккаунт заблокирован;
-* первый контакт;
-* превышены [лимиты](https://tg.docs.olchat.io/vazhnaya-informaciya#limity).
+* превышены [лимиты](https://tg.docs.olchat.io/vazhnaya-informaciya#limity);
+* [первый контакт](../vazhnaya-informaciya.md#pervyi-kontakt);
+* аккаунт [заблокирован](../vazhnaya-informaciya.md#blokirovka-akkaunta);
+* у клиента [отсутствует аккаунт](https://tg.docs.olchat.io/vazhnaya-informaciya#net-akkaunta) Telegram.
 
 #### **Что делать**
 
