@@ -2,6 +2,7 @@
 
 * [Олчат: Telegram — чат Telegram для открытых линий Битрикс24](README.md)
 * [Важная информация!](vazhnaya-informaciya.md)
+* [Copy of Важная информация!](vazhnaya-informaciya-1.md)
 * [Тарифы приложения](stoimost-i-oplata-prilozheniya/README.md)
   * [New Оплата коннектора](stoimost-i-oplata-prilozheniya/new-oplata-konnektora.md)
   * [Оплата коннектора](stoimost-i-oplata-prilozheniya/oplata-konnektora.md)
