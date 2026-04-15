@@ -2,7 +2,6 @@
 
 * [Олчат: Telegram — чат Telegram для открытых линий Битрикс24](README.md)
 * [Важная информация!](vazhnaya-informaciya.md)
-* [Copy of Важная информация!](vazhnaya-informaciya-1.md)
 * [Тарифы приложения](stoimost-i-oplata-prilozheniya/README.md)
   * [New Оплата коннектора](stoimost-i-oplata-prilozheniya/new-oplata-konnektora.md)
   * [Оплата коннектора](stoimost-i-oplata-prilozheniya/oplata-konnektora.md)
@@ -28,8 +27,7 @@
 
 ## Использование
 
-* [OLD Получение и отправка сообщений](ispolzovanie/poluchenie-i-otpravka-soobshenii.md)
-* [Получение и отправка сообщений](ispolzovanie/poluchenie-i-otpravka-soobshenii-1.md)
+* [Получение и отправка сообщений](ispolzovanie/poluchenie-i-otpravka-soobshenii.md)
 * [Статусы коннектора](ispolzovanie/statusy-konnektora.md)
 * [Отправка сообщений из приложения в карточке](ispolzovanie/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md)
 * [Особенности записи контактных данных клиента в карточке CRM](ispolzovanie/osobennosti-zapisi-kontaktnykh-dannykh-klienta-v-kartochke-crm.md)
