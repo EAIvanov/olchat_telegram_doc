@@ -71,3 +71,4 @@
 
 * [Возникающие ошибки](voprosy-i-otvety/voznikayushie-oshibki/README.md)
   * [Ошибка PRIVACY\_PREMIUM\_REQUIRED](voprosy-i-otvety/voznikayushie-oshibki/oshibka-privacy_premium_required.md)
+  * [Ошибка «Канал коммуникации не настроен»](voprosy-i-otvety/voznikayushie-oshibki/oshibka-kanal-kommunikacii-ne-nastroen.md)
