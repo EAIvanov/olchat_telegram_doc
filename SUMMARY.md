@@ -35,6 +35,8 @@
 * [Отправка сообщений из мобильного приложения Битрикс24](ispolzovanie/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
 * [Виджеты в карточках CRM и Смарт-процессах](ispolzovanie/vidzhety-v-kartochkakh-crm-i-smart-processakh/README.md)
   * [Олчат: Telegram](ispolzovanie/vidzhety-v-kartochkakh-crm-i-smart-processakh/olchat-telegram.md)
+* [Copy of Виджеты в карточках CRM и Смарт-процессах](ispolzovanie/copy-of-vidzhety-v-kartochkakh-crm-i-smart-processakh/README.md)
+  * [Олчат: Telegram](ispolzovanie/copy-of-vidzhety-v-kartochkakh-crm-i-smart-processakh/olchat-telegram.md)
 
 ## ВОЗМОЖНОСТИ
 

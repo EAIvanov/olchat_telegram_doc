@@ -4,7 +4,7 @@
 
 После установки приложения вам сразу доступно подключение бесплатного демонстрационного периода. Демо-период активируется в настройках коннектора.
 
-![](https://tg.docs.olchat.io/~gitbook/image?url=https%3A%2F%2F2065239246-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FRMTOPu2XofX4vERECjya%252Fuploads%252F4vanhjAHsDBGvmPrXdca%252Fimage.png%3Falt%3Dmedia%26token%3Df678c700-fdce-41f2-9733-194f804a489f\&width=768\&dpr=4\&quality=100\&sign=80fffe0a\&sv=2)
+<img src="https://tg.docs.olchat.io/~gitbook/image?url=https%3A%2F%2F2065239246-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FRMTOPu2XofX4vERECjya%252Fuploads%252F4vanhjAHsDBGvmPrXdca%252Fimage.png%3Falt%3Dmedia%26token%3Df678c700-fdce-41f2-9733-194f804a489f&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=80fffe0a&#x26;sv=2" alt="" height="217" width="769">
 
 Подробнее в статье Подключение открытой линии и коннектора.
 
