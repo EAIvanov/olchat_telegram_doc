@@ -86,8 +86,8 @@
 
 * номер телефона скрыт в [настройках конфиденциальности](https://tg.docs.olchat.io/vazhnaya-informaciya#nastroiki-konfidencialnosti) Telegram;
 * превышены [лимиты](https://tg.docs.olchat.io/vazhnaya-informaciya#limity);
-* [первый контакт](../vazhnaya-informaciya.md#pervyi-kontakt);
-* аккаунт [заблокирован](../vazhnaya-informaciya.md#blokirovka-akkaunta);
+* [первый контакт](/broken/pages/-M3uKzniKgF5xIzffaA9#pervyi-kontakt);
+* аккаунт [заблокирован](/broken/pages/-M3uKzniKgF5xIzffaA9#blokirovka-akkaunta);
 * у клиента [отсутствует аккаунт](https://tg.docs.olchat.io/vazhnaya-informaciya#net-akkaunta) Telegram.
 
 #### **Что делать**
