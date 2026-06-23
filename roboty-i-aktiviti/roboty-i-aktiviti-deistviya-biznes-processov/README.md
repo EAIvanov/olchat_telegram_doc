@@ -24,6 +24,6 @@
 
 [poisk-polzovatelya-v-telegram.md](poisk-polzovatelya-v-telegram.md "mention").
 
-[otpravka-soobsheniya.md](otpravka-soobsheniya.md "mention").
+[Broken link](/broken/pages/kntVslYgnyeJBKiLKrZF "mention").
 
 [Broken link](/broken/pages/meOOUGaC3kNLtdBosOXJ "mention").
