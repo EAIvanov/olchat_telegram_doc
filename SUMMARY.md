@@ -46,7 +46,6 @@
 * [Групповые чаты](gruppovye-chaty/gruppovye-chaty.md)
 * [Подключение канала](gruppovye-chaty/podklyuchenie-kanala.md)
 * [Как прикрепить группу Telegram к сделке](gruppovye-chaty/kak-prikrepit-gruppu-telegram-k-sdelke.md)
-* [Copy of Как прикрепить группу Telegram к сделке](gruppovye-chaty/copy-of-kak-prikrepit-gruppu-telegram-k-sdelke.md)
 
 ## Роботы и активити
 
