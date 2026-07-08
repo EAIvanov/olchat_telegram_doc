@@ -41,12 +41,6 @@
 * [Виджет на сайт](vozmozhnosti/vidzhet-na-sait.md)
 * [Шаблоны сообщений](vozmozhnosti/shablony-soobshenii.md)
 
-## Групповые чаты
-
-* [Групповые чаты](gruppovye-chaty/gruppovye-chaty.md)
-* [Подключение канала](gruppovye-chaty/podklyuchenie-kanala.md)
-* [Как прикрепить группу Telegram к сделке](gruppovye-chaty/kak-prikrepit-gruppu-telegram-k-sdelke.md)
-
 ## Роботы и активити
 
 * [Роботы и активити (действия) бизнес-процессов](roboty-i-aktiviti/roboty-i-aktiviti-deistviya-biznes-processov/README.md)
@@ -61,6 +55,12 @@
 * [Отладка и поиск ошибок](roboty-i-aktiviti/otladka-i-poisk-oshibok/README.md)
   * [Как вывести результат работы робота в комментарий](roboty-i-aktiviti/otladka-i-poisk-oshibok/kak-vyvesti-rezultat-raboty-robota-v-kommentarii.md)
 * [Настройка отправки файла в зависимости от источника](roboty-i-aktiviti/nastroika-otpravki-faila-v-zavisimosti-ot-istochnika.md)
+
+## Групповые чаты
+
+* [Групповые чаты](gruppovye-chaty/gruppovye-chaty.md)
+* [Подключение канала](gruppovye-chaty/podklyuchenie-kanala.md)
+* [Как прикрепить группу Telegram к сделке](gruppovye-chaty/kak-prikrepit-gruppu-telegram-k-sdelke.md)
 
 ## КЕЙСЫ
 
