@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Олчат: Telegram — чат Telegram для открытых линий Битрикс24](README.md)
+* [Знакомство с Олчат Telegram](README.md)
 * [Важная информация!](vazhnaya-informaciya.md)
 * [Copy of Важная информация](vazhnaya-informaciya-1.md)
 * [Блокировка номера](vazhnaya-informaciya-2.md)
