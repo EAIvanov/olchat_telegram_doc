@@ -15,5 +15,5 @@
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Подробнее о подключении коннектора и настройке Открытой линии вы можете узнать из статей [podklyuchenie-konnektora.md](podklyuchenie-konnektora.md "mention")и [nastroika-otkrytoi-linii.md](nastroika-otkrytoi-linii.md "mention").
+Подробнее о подключении коннектора и настройке Открытой линии вы можете узнать из статей [Broken link](/broken/pages/-Leolmj7XzjY0FLi9fup "mention")и [nastroika-otkrytoi-linii.md](nastroika-otkrytoi-linii.md "mention").
 {% endhint %}

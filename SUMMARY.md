@@ -15,7 +15,6 @@
 
 * [Установка приложения](ustanovka-i-nastroika/ustanovka-prilozheniya.md)
 * [Подключение открытой линии и коннектора](ustanovka-i-nastroika/podklyuchenie-konnektora.md)
-* [Copy of Подключение открытой линии и коннектора](ustanovka-i-nastroika/podklyuchenie-konnektora-1.md)
 * [Настройка открытой линии](ustanovka-i-nastroika/nastroika-otkrytoi-linii.md)
 * [Настройка прав](ustanovka-i-nastroika/nastroika-prav-dlya-raboty-s-prilozheniem-olchat.md)
 * [Интерфейсы приложения](ustanovka-i-nastroika/interfeisy-prilozheniya/README.md)
