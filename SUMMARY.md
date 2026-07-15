@@ -1,9 +1,8 @@
 # Table of contents
 
 * [Знакомство с Олчат Telegram](README.md)
-* [Важное](vazhnaya-informaciya.md)
-* [Copy of Важная информация](vazhnaya-informaciya-1.md)
-* [Блокировка номера](vazhnaya-informaciya-2.md)
+* [Блокировка номера](vazhnaya-informaciya.md)
+* [Важная информация](vazhnaya-informaciya-1.md)
 * [Тарифы приложения](stoimost-i-oplata-prilozheniya/README.md)
   * [New Оплата коннектора](stoimost-i-oplata-prilozheniya/new-oplata-konnektora.md)
   * [Оплата коннектора](stoimost-i-oplata-prilozheniya/oplata-konnektora.md)
