@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Знакомство с Олчат Telegram](README.md)
-* [Важная информация!](vazhnaya-informaciya.md)
+* [Важное](vazhnaya-informaciya.md)
 * [Copy of Важная информация](vazhnaya-informaciya-1.md)
 * [Блокировка номера](vazhnaya-informaciya-2.md)
 * [Тарифы приложения](stoimost-i-oplata-prilozheniya/README.md)
