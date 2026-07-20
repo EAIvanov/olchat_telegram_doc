@@ -33,8 +33,8 @@
 * [Отправка сообщений из приложения в карточке](ispolzovanie/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md)
 * [Особенности записи контактных данных клиента в карточке CRM](ispolzovanie/osobennosti-zapisi-kontaktnykh-dannykh-klienta-v-kartochke-crm.md)
 * [Отправка сообщений из мобильного приложения Битрикс24](ispolzovanie/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
-* [Виджеты в карточках CRM и Смарт-процессах](ispolzovanie/vidzhety-v-kartochkakh-crm-i-smart-processakh/README.md)
-  * [Олчат: Telegram](ispolzovanie/vidzhety-v-kartochkakh-crm-i-smart-processakh/olchat-telegram.md)
+* [Виджет в карточке CRM и Смарт-процессах](ispolzovanie/vidzhet-v-kartochke-crm-i-smart-processakh/README.md)
+  * [Олчат: Telegram](ispolzovanie/vidzhet-v-kartochke-crm-i-smart-processakh/olchat-telegram.md)
 
 ## ВОЗМОЖНОСТИ
 
