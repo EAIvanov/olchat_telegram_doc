@@ -78,7 +78,7 @@
 
 ### Особенности настроек конфиденциальности номера в Telegram
 
-Иногда при попытке отправить клиенту сообщение может появиться ошибка: «На данный момент отправка сообщения&#x20;недоступна. Подробнее обо всех причинах:&#x20;https://tg.docs.olchat.io/vazhnaya-informaciya».
+Иногда при попытке отправить клиенту сообщение может появиться ошибка: «На данный момент отправка сообщения&#x20;недоступна. Подробнее обо всех причинах можно узнать [здесь](../vazhnaya-informaciya-1.md).
 
 <figure><img src="../.gitbook/assets/2026-04-07_08-04-25.png" alt=""><figcaption></figcaption></figure>
 
@@ -86,8 +86,8 @@
 
 * номер телефона скрыт в [настройках конфиденциальности](https://tg.docs.olchat.io/vazhnaya-informaciya#nastroiki-konfidencialnosti) Telegram;
 * превышены [лимиты](https://tg.docs.olchat.io/vazhnaya-informaciya#limity);
-* [первый контакт](/broken/pages/-M3uKzniKgF5xIzffaA9#pervyi-kontakt);
-* аккаунт [заблокирован](/broken/pages/-M3uKzniKgF5xIzffaA9#blokirovka-akkaunta);
+* [первый контакт](../vazhnaya-informaciya-1.md#pervyi-kontakt);
+* аккаунт [заблокирован](../vazhnaya-informaciya-1.md#blokirovka-akkaunta);
 * у клиента [отсутствует аккаунт](https://tg.docs.olchat.io/vazhnaya-informaciya#net-akkaunta) Telegram.
 
 #### **Что делать**
