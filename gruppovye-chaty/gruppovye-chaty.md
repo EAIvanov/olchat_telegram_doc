@@ -11,7 +11,7 @@
 <figure><img src="../.gitbook/assets/image (994).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Настройки групп по умолчанию можно установить на этапе «Настройка коннектора». Подробнее об этом написано [здесь](../ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md#nastroiki-grupp-po-umolchaniyu).
+Настройки групп по умолчанию можно установить на этапе «Настройка коннектора». Подробнее об этом написано [здесь](/broken/pages/-MXVZVnBGVIblHBKthyO#nastroiki-grupp-po-umolchaniyu).
 {% endhint %}
 
 ## Описание настроек групп
