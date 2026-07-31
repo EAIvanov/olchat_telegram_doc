@@ -29,6 +29,7 @@
 ## Использование
 
 * [Получение и отправка сообщений](ispolzovanie/poluchenie-i-otpravka-soobshenii.md)
+* [Copy of Получение и отправка сообщений](ispolzovanie/poluchenie-i-otpravka-soobshenii-1.md)
 * [Статусы коннектора](ispolzovanie/statusy-konnektora.md)
 * [Отправка сообщений из приложения в карточке](ispolzovanie/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md)
 * [Особенности записи контактных данных клиента в карточке CRM](ispolzovanie/osobennosti-zapisi-kontaktnykh-dannykh-klienta-v-kartochke-crm.md)
