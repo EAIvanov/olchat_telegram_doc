@@ -22,11 +22,11 @@ hidden: true
 
 Если клиент удаляет сообщение в Telegram, оно не исчезает из чата открытой линии. Сообщение остаётся видимым, но помечается красным крестиком (✖), чтобы было понятно, что оно было удалено клиентом.
 
-<figure><img src="../.gitbook/assets/image (1059).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1061).png" alt=""><figcaption></figcaption></figure>
 
 Если клиент редактирует сообщение в Telegram, изменения также отображаются в чате открытой линии.
 
-<figure><img src="../.gitbook/assets/image (1058).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1060).png" alt=""><figcaption></figcaption></figure>
 
 ### Голосовые сообщения
 
