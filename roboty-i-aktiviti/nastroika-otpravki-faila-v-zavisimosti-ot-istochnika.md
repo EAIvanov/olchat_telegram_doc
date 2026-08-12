@@ -22,9 +22,13 @@
 ## **Варианты создания прямых ссылок с помощью популярных сервисов**
 
 * **Dropbox:** измените параметр в конце ссылки с ?dl=0 на ?dl=1 или ?raw=1. Пример: https://www.dropbox.com/s/mytoken/myfile.pdf?dl=1
-* **Google Drive: с**делайте файл общедоступным («Доступ по ссылке»), затем преобразуйте ссылку вида https://drive.google.com/file/d/mytoken/view?usp=sharing в прямую: https://drive.google.com/uc?export=download\&id=mytoken
+* **Google Drive:** сделайте файл общедоступным («Доступ по ссылке»), затем преобразуйте ссылку вида https://drive.google.com/file/d/mytoken/view?usp=sharing в прямую: https://drive.google.com/uc?export=download\&id=mytoken
+* **Яндекс.Диск:**
+  1. Сделайте файл публичным и скопируйте ссылку (например: https://disk.yandex.ru/d/xxxxxxxx или https://yadi.sk/i/xxxxxxxx).
+  2. Получите прямую ссылку через API Яндекса. Откройте в браузере адрес: https://cloud-api.yandex.net/v1/disk/public/resources/download?public\_key=ВАША\_ПУБЛИЧНАЯ\_ССЫЛКА Пример: https://cloud-api.yandex.net/v1/disk/public/resources/download?public\_key=https://disk.yandex.ru/d/xxxxxxxx
+  3. В ответе JSON найдите поле "href" — это и есть прямая (временная) ссылка на скачивание.
 
-Аналогичный принцип работает для Яндекс.Диска и других облачных сервисов: публичную ссылку нужно изменить, чтобы получить прямой URL на скачивание без промежуточной страницы.
+Аналогичный принцип работает для других облачных сервисов: публичную ссылку нужно изменить, чтобы получить прямой URL на скачивание без промежуточной страницы.
 
 ## **Указание ID отправляемого файла (Битрикс24.Диск)**
 
