@@ -2,7 +2,7 @@
 
 Для перехода к панели приложения, в левом меню портала выберите приложение «Олчат: Telegram»:
 
-<figure><img src="../../.gitbook/assets/2024-12-06_17-54-46 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-12-06_17-54-46.png" alt=""><figcaption></figcaption></figure>
 
 Для перехода в интерфейс настроек приложения для начала необходимо войти в панель приложения. Затем нажать на Иконку «**⚙**» **– Настройки.** Более подробно про [описание панели приложения здесь](https://tg.docs.olchat.io/ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-paneli-prilozheniya).
 

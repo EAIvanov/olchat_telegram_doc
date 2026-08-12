@@ -42,7 +42,7 @@
 
 * При потере сессии или выходе из аккаунта придёт уведомление «Не подключено».
 
-<figure><img src="../../.gitbook/assets/2026-02-09_12-41-01 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2026-02-09_12-41-01.png" alt=""><figcaption></figcaption></figure>
 
 ### Оплата коннектора
 

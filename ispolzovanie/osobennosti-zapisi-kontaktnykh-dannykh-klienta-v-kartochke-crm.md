@@ -9,7 +9,7 @@
 
     Кроме этого, в поле **Мессенджер** может быть записан номер телефона в международном формате и Username (имя) пользователя Telegram:<br>
 
-    <figure><img src="../.gitbook/assets/image (978).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (975).png" alt=""><figcaption></figcaption></figure>
 3.  **Сайт (WEB).** В данном поле необходимо хранить ссылки вида: `https://t.me/{username or phone}` или `https://{username}.t.me/`, где:\
     `username` — имя пользователя Telegram
 

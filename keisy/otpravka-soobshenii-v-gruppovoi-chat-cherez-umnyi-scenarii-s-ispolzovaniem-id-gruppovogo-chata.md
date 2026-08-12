@@ -44,7 +44,7 @@ ID чата в данной конструкции хранится на тре�
 
 Выполните настройку робота:
 
-<figure><img src="../.gitbook/assets/image (1568).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 1. В поле «Тип идентификатора чата» из выпадающего списка выберите значение «ID чата».
 2. В поле «Идентификатор чата» укажите составленную комбинацию формул.
