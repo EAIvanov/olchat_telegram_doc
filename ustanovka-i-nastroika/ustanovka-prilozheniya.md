@@ -17,5 +17,5 @@
 <figure><img src="../.gitbook/assets/image (1001).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Также вы можете установить приложение перейдя по ссылке на Маркет: [https://www.bitrix24.ru/apps/app/infocom.olchat\_tg/](https://www.bitrix24.ru/apps/app/infocom.olchat_tg/).
+Также вы можете установить приложение перейдя по ссылке на Маркет: [https://www.bitrix24.ru/apps/app/infocom.olchat\_tg/](https://www.bitrix24.ru/apps/app/infocom.olchat_tg/?p=132277&p1=docs).
 {% endhint %}
