@@ -20,6 +20,6 @@
 10. Значок «**•••**» **– Меню вызова настроек.**\
     ![](<../../.gitbook/assets/image (989).png>)<br>
     1. **Оплатить.** Открывает окно для оплаты выбранного коннектора. Подробнее в статье [oplata-konnektora.md](../../stoimost-i-oplata-prilozheniya/oplata-konnektora.md "mention").
-    2. **Настройки коннектора.** Открывает окно настроек коннектора. Подробнее в статье [Broken link](/broken/pages/-MXVZVnBGVIblHBKthyO "mention").
+    2. **Настройки коннектора.** Открывает окно настроек коннектора. Подробнее в статье [Описание настроек  коннектора](opisanie-nastroek-konnektora.md).
     3. **Настройки линии.** Позволяет перейти в настройки открытой линии для данного коннектора. Подробнее в статье [nastroika-otkrytoi-linii.md](../nastroika-otkrytoi-linii.md "mention").
     4. **Настройки групп.** Открывает окно настроек для управления группами. Подробнее в статье [gruppovye-chaty.md](../../gruppovye-chaty/gruppovye-chaty.md "mention").
