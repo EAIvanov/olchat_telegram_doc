@@ -41,7 +41,6 @@
 
 * [Виджет на сайт](vozmozhnosti/vidzhet-na-sait.md)
 * [Шаблоны сообщений](vozmozhnosti/shablony-soobshenii.md)
-* [Copy of Шаблоны сообщений](vozmozhnosti/copy-of-shablony-soobshenii.md)
 
 ## Роботы и активити
 
