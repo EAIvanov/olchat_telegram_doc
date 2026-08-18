@@ -3,7 +3,6 @@
 * [Знакомство с Олчат Telegram](README.md)
 * [Важная информация](vazhnaya-informaciya.md)
 * [Блокировка номера](vazhnaya-informaciya-1.md)
-* [Copy of Блокировка номера](vazhnaya-informaciya-2.md)
 * [Тарифы приложения](stoimost-i-oplata-prilozheniya/README.md)
   * [New Оплата коннектора](stoimost-i-oplata-prilozheniya/new-oplata-konnektora.md)
   * [Оплата коннектора](stoimost-i-oplata-prilozheniya/oplata-konnektora.md)
