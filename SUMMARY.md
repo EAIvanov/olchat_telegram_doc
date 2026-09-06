@@ -37,6 +37,7 @@
   * [Олчат: Telegram](ispolzovanie/vidzhet-v-kartochke-crm-i-smart-processakh/olchat-telegram.md)
 * [Copy of Виджет в карточке CRM и Смарт-процессах](ispolzovanie/vidzhet-v-kartochke-crm-i-smart-processakh-1/README.md)
   * [Олчат: Telegram](ispolzovanie/vidzhet-v-kartochke-crm-i-smart-processakh-1/olchat-telegram.md)
+* [Олчат Telegram в карточке смарт-процесса](ispolzovanie/olchat-telegram-v-kartochke-smart-processa.md)
 
 ## ВОЗМОЖНОСТИ
 
