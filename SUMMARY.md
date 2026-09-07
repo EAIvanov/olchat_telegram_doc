@@ -31,13 +31,13 @@
 * [Получение и отправка сообщений](ispolzovanie/poluchenie-i-otpravka-soobshenii.md)
 * [Статусы коннектора](ispolzovanie/statusy-konnektora.md)
 * [Отправка сообщений из приложения в карточке](ispolzovanie/kak-napisat-pervym-cherez-prilozhenie-olchat-v-kartochke.md)
+* [Отправка сообщений из карточки смарт-процесса](ispolzovanie/otpravka-soobshenii-iz-kartochki-smart-processa.md)
 * [Особенности записи контактных данных клиента в карточке CRM](ispolzovanie/osobennosti-zapisi-kontaktnykh-dannykh-klienta-v-kartochke-crm.md)
 * [Отправка сообщений из мобильного приложения Битрикс24](ispolzovanie/otpravka-soobshenii-iz-mobilnogo-prilozheniya-bitriks24.md)
 * [Виджет в карточке CRM и Смарт-процессах](ispolzovanie/vidzhet-v-kartochke-crm-i-smart-processakh/README.md)
   * [Олчат: Telegram](ispolzovanie/vidzhet-v-kartochke-crm-i-smart-processakh/olchat-telegram.md)
 * [Copy of Виджет в карточке CRM и Смарт-процессах](ispolzovanie/vidzhet-v-kartochke-crm-i-smart-processakh-1/README.md)
   * [Олчат: Telegram](ispolzovanie/vidzhet-v-kartochke-crm-i-smart-processakh-1/olchat-telegram.md)
-* [Олчат Telegram в карточке смарт-процесса](ispolzovanie/olchat-telegram-v-kartochke-smart-processa.md)
 
 ## ВОЗМОЖНОСТИ
 
