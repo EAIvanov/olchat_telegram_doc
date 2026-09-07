@@ -30,3 +30,4 @@ hidden: true
 * **По номеру**.
 * **По имени пользователя (username)**.
 
+&#x20;Подробнее с интерфейсом отправки и настроками можно ознакомиться [здесь.](otpravka-soobshenii-iz-kartochki-smart-processa.md)
