@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Знакомство с Олчат Telegram](README.md)
+* [Copy of Знакомство с Олчат Telegram](master-1.md)
 * [Важная информация](vazhnaya-informaciya.md)
 * [Блокировка номера](vazhnaya-informaciya-1.md)
 * [Тарифы приложения](stoimost-i-oplata-prilozheniya/README.md)
