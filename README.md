@@ -36,4 +36,8 @@
 
 ### Как открыть чат поддержки из Битрикс24?
 
-<figure><img src=".gitbook/assets/Как найти поддержку.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Запись 2026-10-08 153915.gif" alt=""><figcaption></figcaption></figure>
+
+[Лицензионное соглашение](https://olchat.io/eula-ru)
+
+[Условия о конфиденциальности](https://olchat.io/privacy-ru)
