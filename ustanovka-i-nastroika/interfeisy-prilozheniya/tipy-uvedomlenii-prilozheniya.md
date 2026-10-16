@@ -6,19 +6,17 @@
 
 Перейти в данный чат можно из настроек приложения. Для этого выполните следующие действия:
 
-1. На портале Битрикс24 в меню слева откройте раздел «Приложения» и выберите Олчат Telegram.
+1.  На портале Битрикс24 в меню слева откройте раздел **Приложения** и выберите Олчат Telegram.<br>
 
-<div align="center"><img src="../../.gitbook/assets/unknown.png" alt=""></div>
+    <figure><img src="../../.gitbook/assets/image (682).png" alt=""><figcaption></figcaption></figure>
+2.  На главной странице приложения нажмите на значок настроек ⚙ в правом верхнем углу.<br>
 
-2. На главной странице приложения нажмите на значок настроек ⚙ в правом верхнем углу.
-
-<figure><img src="../../.gitbook/assets/2026-02-09_21-52-06.png" alt=""><figcaption></figcaption></figure>
-
-3. В разделе «Общие» настроек нажмите на кнопку «Открыть уведомления», чтобы перейти в нужный чат.
+    <figure><img src="../../.gitbook/assets/image (692).png" alt=""><figcaption></figcaption></figure>
+3. В разделе **Общие** настроек нажмите на кнопку **Открыть уведомления**, чтобы перейти в нужный чат.
 
 <figure><img src="../../.gitbook/assets/2026-02-09_21-53-39.png" alt=""><figcaption></figcaption></figure>
 
-4. Если необходимо предоставить доступ к чату сотрудникам, нажмите на кнопку «Добавить пользователя» и выберите из структуры компании нужных.
+4. Если необходимо предоставить доступ к чату сотрудникам, нажмите на кнопку **Добавить пользователя** и выберите из структуры компании нужных.
 
 <figure><img src="../../.gitbook/assets/2026-02-09_21-54-48.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,30 +26,21 @@
 
 ### Авторизация, подключение и отключение коннектора
 
-* При выборе способа «Получение кода» при авторизации коннектора (ввод номера телефона → ожидание кода от Telegram):
+* При выборе способа **Получение кода** при авторизации коннектора (ввод номера телефона → ожидание кода от Telegram):
 
-<figure><img src="../../.gitbook/assets/2026-02-09_12-42-12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (753).png" alt=""><figcaption></figcaption></figure>
 
 * При выборе способа авторизации через QR-код:
 
-<figure><img src="../../.gitbook/assets/2026-02-09_12-44-12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
 
-* При успешной авторизации и подключении вы увидите «Подключено».
+*   При успешной авторизации вы увидите, что аккаунт подключен.<br>
 
-<figure><img src="../../.gitbook/assets/2026-02-09_12-43-12.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (699).png" alt=""><figcaption></figcaption></figure>
+* При потере сессии или выходе из аккаунта придёт уведомление **Не подключено**.
 
-* При потере сессии или выходе из аккаунта придёт уведомление «Не подключено».
+<figure><img src="../../.gitbook/assets/image (732).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2026-02-09_12-41-01.png" alt=""><figcaption></figcaption></figure>
-
-### Оплата коннектора
-
-* Олчат Telegram предупредит об окончании тестового периода за 24 часа:
-
-<figure><img src="../../.gitbook/assets/image (1046).png" alt=""><figcaption></figcaption></figure>
-
-* Когда тестовый период завершится, придёт следующее уведомление:
-
-<figure><img src="../../.gitbook/assets/image (1047).png" alt=""><figcaption></figcaption></figure>
+Также Олчат Telegram предупредит об окончании тестового периода за 24 часа. Когда тестовый период завершится, придёт уведомление, что коннектор необходимо оплатить.
 
 <br>
