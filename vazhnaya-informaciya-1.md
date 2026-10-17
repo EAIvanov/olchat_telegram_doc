@@ -82,4 +82,4 @@
 
 При попытке отправить сообщение при серой точке система выдаёт стандартную ошибку:
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

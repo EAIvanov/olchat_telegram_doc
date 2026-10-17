@@ -12,9 +12,9 @@ hidden: true
 
 <figure><img src="../.gitbook/assets/image (1026).png" alt=""><figcaption></figcaption></figure>
 
-В случае, если планируете оплатить только одну конкретную линию, можно выбрать ее из Списка аккаунтов на главной станице приложения, нажать на «<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">» в конце строки напротив выбранной линии, затем выбрать «Оплатить».
+В случае, если планируете оплатить только одну конкретную линию, можно выбрать ее из Списка аккаунтов на главной станице приложения, нажать на «<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">» в конце строки напротив выбранной линии, затем выбрать «Оплатить».
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -56,9 +56,9 @@ hidden: true
 
 При необходимости выбора всех открытых линий, проставьте только один чекбокс в начале списка.
 
-Список открытых линий можно отсортировать по названию, а также оставшемуся сроку оплаты. Для этого нажмите <img src="../.gitbook/assets/image (1031).png" alt="" data-size="line"> рядом с наименованием столбца.&#x20;
+Список открытых линий можно отсортировать по названию, а также оставшемуся сроку оплаты. Для этого нажмите <img src="../.gitbook/assets/image (1031).png" alt="" data-size="line"> рядом с наименованием столбца.
 
-Для удобства срок оплаты окрашен в разные цвета. Активные линии с действующей подпиской отражены <mark style="color:green;">зеленым</mark> цветом, неактивные - <mark style="color:$info;">серым</mark>, требующие оплаты - <mark style="color:red;">красным</mark>.&#x20;
+Для удобства срок оплаты окрашен в разные цвета. Активные линии с действующей подпиской отражены <mark style="color:green;">зеленым</mark> цветом, неактивные - <mark style="color:$info;">серым</mark>, требующие оплаты - <mark style="color:red;">красным</mark>.
 
 <figure><img src="../.gitbook/assets/image (1032).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}

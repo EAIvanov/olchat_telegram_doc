@@ -27,10 +27,10 @@
 
 1.  Перейдите в приложение Олчат WhatsApp в левом меню портала Битрикс24.<br>
 
-    <figure><img src="../.gitbook/assets/2026-03-20 12_20_42-NVIDIA GeForce Overlay.png" alt=""><figcaption></figcaption></figure>
-2.  Выберите пункт меню **Настройки шаблонов**.
+    <figure><img src="../.gitbook/assets/image (778).png" alt=""><figcaption></figcaption></figure>
+2.  Выберите пункт меню **Настройки шаблонов**.<br>
 
-    <figure><img src="../.gitbook/assets/Снимок экрана 2026-03-04 121621.jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (803).png" alt=""><figcaption></figcaption></figure>
 3.  Нажмите **Создать шаблон**.
 
     <figure><img src="../.gitbook/assets/2026-03-20 11_23_27-Greenshot.jpg" alt=""><figcaption></figcaption></figure>
@@ -66,18 +66,15 @@
 
 #### **Дополнительные опции в окне выбора шаблонов (в чате):**
 
-* Строка поиска по ключевым словам в названии или тексте.
+*   Строка поиска по ключевым словам в названии или тексте.<br>
 
-<figure><img src="../.gitbook/assets/Screenshot_4.jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (809).png" alt=""><figcaption></figcaption></figure>
+*   Фильтр по категориям.<br>
 
-* Фильтр по категориям.
+    <figure><img src="../.gitbook/assets/image (811).png" alt=""><figcaption></figcaption></figure>
+*   Переключатель **Отображать текст шаблона** — включает/выключает показ полного текста в списке (для компактного вида оставьте только названия).<br>
 
-<figure><img src="../.gitbook/assets/Screenshot_5.jpg" alt=""><figcaption></figcaption></figure>
-
-* Переключатель **Отображать текст шаблона** — включает/выключает показ полного текста в списке (для компактного вида оставьте только названия).
-
-<figure><img src="../.gitbook/assets/Screenshot_6.jpg" alt=""><figcaption></figcaption></figure>
-
+    <figure><img src="../.gitbook/assets/image (818).png" alt=""><figcaption></figcaption></figure>
 * Режим вставки:
   * **Вставить шаблон в чат** — окно остаётся открытым (удобно для отправки нескольких шаблонов подряд).
   * **Вставить шаблон в чат и закрыть окно** — автоматическое закрытие после вставки.
