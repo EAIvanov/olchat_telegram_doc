@@ -34,7 +34,7 @@ ID чата в данной конструкции хранится на тре�
 
 Чтобы создать сценарий, необходимо перейти в раздел **CRM ‒ Сделки ‒ Список сценариев ‒ Умные сценарии ‒ Создать сценарий.**
 
-<figure><img src="../.gitbook/assets/image (1010).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1016).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне укажите название и описание сценария.
 
@@ -44,7 +44,7 @@ ID чата в данной конструкции хранится на тре�
 
 Выполните настройку робота:
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1021).png" alt=""><figcaption></figcaption></figure>
 
 1. В поле «Тип идентификатора чата» из выпадающего списка выберите значение «ID чата».
 2. В поле «Идентификатор чата» укажите составленную комбинацию формул.
