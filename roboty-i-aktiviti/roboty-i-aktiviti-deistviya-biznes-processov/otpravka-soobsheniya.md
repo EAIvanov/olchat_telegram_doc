@@ -32,7 +32,7 @@
 
 Для отправки сообщения из бизнес-процесса добавьте действие «\[Олчат Telegram] Отправить сообщение».
 
-<figure><img src="../../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (922).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку параметров действия:
 
@@ -52,6 +52,6 @@
 4. Введите текст **Сообщения.**
 5. В поле **Публиковать в чате открытой линии?** укажите каким образом отправленное роботом сообщение отобразится в чате Открытой линии. Доступны варианты: **входящим сообщением в ОЛ, без публикации в ОЛ** и **исходящим в ОЛ.**
 
-<figure><img src="../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (917).png" alt=""><figcaption></figcaption></figure>
 
 Остальные настройки можно оставить по умолчанию. Нажмите на кнопку **Сохранить**.

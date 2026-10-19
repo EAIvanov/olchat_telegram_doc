@@ -8,7 +8,7 @@
 
 Для перехода к настройкам групп перейдите в приложение «Олчат: Telegram» в левом меню портала и напротив нужного коннектора нажмите на значок «**•••**» **– Настройки групп.**
 
-<figure><img src="../.gitbook/assets/image (994).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (978).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Настройки групп по умолчанию можно установить на этапе «Настройка коннектора». Подробнее об этом написано [здесь](../ustanovka-i-nastroika/interfeisy-prilozheniya/opisanie-nastroek-konnektora.md).

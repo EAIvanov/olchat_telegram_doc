@@ -25,7 +25,7 @@
 
 Для отправки файла из бизнес-процесса добавьте действие «\[Олчат Telegram] Отправить файл».
 
-<figure><img src="../../.gitbook/assets/image (495).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (924).png" alt=""><figcaption></figcaption></figure>
 
 Выполните настройку параметров действия:
 
